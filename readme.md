@@ -10,5 +10,5 @@ change *SITE_URL* based on new location of the project folder related to htdocs
 -.htaccess(project file):
 change *RewriteBase* based on new location of the project folder related to htdocs
 
--insex.js(project file):
+-index.js(project file):
 change *fetch function path argument* based on new location of the deletepost.php API related to htdocs
